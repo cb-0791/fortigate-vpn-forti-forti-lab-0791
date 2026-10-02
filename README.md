@@ -83,8 +83,8 @@ Se fuerza la caída del túnel IPsec en la GUI de FortiGate-A seleccionando `VPN
 
 ## 📂 Archivos del Repositorio
 
-- `/configs/FortiGate-A_running.conf`: Backup de configuración completa de FortiGate-A.
-- `/configs/FortiGate-B_running.conf`: Backup de configuración completa de FortiGate-B.
+- `/fortigateA_HQ.conf`: Backup de configuración completa de FortiGate-A.
+- `/fortigateB_Branch.conf`: Backup de configuración completa de FortiGate-B.
 - `/img/`: Capturas de pantalla utilizadas en la documentación.
 
 ---
