@@ -1,7 +1,7 @@
 # fortigate-vpn-forti-forti-lab-0791
 # Laboratorio de Redes Seguras: Infraestructura 1 (Site-to-Site IPsec VPN)
 
-[![Demostración en Video](https://youtu.be/4iSpCCUE00M)
+[![Demostración en Video]https://youtu.be/4iSpCCUE00M
 
 ---
 
