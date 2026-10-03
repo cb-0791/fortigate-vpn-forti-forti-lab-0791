@@ -1,7 +1,7 @@
 # fortigate-vpn-forti-forti-lab-0791
 # Laboratorio de Redes Seguras: Infraestructura 1 (Site-to-Site IPsec VPN)
 
-[![Demostración en Video](
+[![Demostración en Video](https://youtu.be/4iSpCCUE00M)
 
 ---
 
@@ -45,7 +45,7 @@ El objetivo principal es garantizar que el tráfico generado entre la zona de us
 Se utilizó el asistente **IPsec Wizard** en ambos FortiGate con los siguientes parámetros:
 - **Nombre Túnel HQ (A):** `VPN_TO_B` (IP Remota: `10.7.91.6`)
 - **Nombre Túnel Branch (B):** `VPN_TO_A` (IP Remota: `10.7.91.2`)
-- **Pre-Shared Key (PSK):** `Fortinet2026*0791`
+- **Pre-Shared Key (PSK):** `Itlazo12345@`
 - **Subred Local A:** `10.7.91.128/25` | **Subred Remota B:** `10.7.91.16/28`
 
 <img width="963" height="787" alt="Captura de pantalla 2026-10-02 174004" src="https://github.com/user-attachments/assets/7d5b6300-4bd4-4dc9-9aca-928c75b34280" />
@@ -93,4 +93,8 @@ Se fuerza la caída del túnel IPsec en la GUI de FortiGate-A seleccionando `VPN
 
 El video con la explicación detallada, verificación en vivo y rostro del estudiante se encuentra disponible en el siguiente enlace:
 
-👉 **[Ver Video Demostrativo del Laboratorio](AQUÍ_VA_TU_ENLACE_DE_YOUTUBE)**
+👉 **[Ver Video Demostrativo del Laboratorio](https://youtu.be/4iSpCCUE00M)**
+
+
+
+
